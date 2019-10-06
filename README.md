@@ -2,8 +2,8 @@
 
 ## Team Members: 
 
-Robert Topham
-Natalie Nova
-Philip Basaric
-Sarah Nasser
-Youngjun Lee
+>Robert Topham
+>Natalie Nova
+>Philip Basaric
+>Sarah Nasser
+>Youngjun Lee
