@@ -8,6 +8,6 @@
 
 >Philip Basaric
 
->Sarah Nasser
+>Sarah Nassar
 
 >Youngjun Lee
